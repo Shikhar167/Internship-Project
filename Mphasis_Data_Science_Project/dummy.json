@@ -1,0 +1,51 @@
+{
+"nodes":
+[
+	{
+		"id":"0",
+		"name":"1"
+	}
+		//"label":"Blood test\n237",
+		//"shape":"rectangle",
+		//"color_level": 0.474,
+		//"style":"rounded,filled",
+		//"fontcolor":"black",
+		//"color":"grey",
+		//"tooltip":"Blood test\n237",
+		//"penwidth":1.5,
+		//"fixedsize":false,
+		//"fontname":"Arial",
+		//"fontsize":10,
+		//"fillcolor":"#ECE7F2",
+	,
+		{
+			"id":"1",
+			"name":"2"
+		}
+		//"label":"Check-out\n492",
+		//"shape":"rectangle",
+		//"color_level":0.984,
+		//"style":"rounded,filled",
+		//"fontcolor":"white",
+		//"color":"grey",
+		//"tooltip":"Check-out\n492",
+		//"penwidth":1.5,
+		//"fixedsize":false,
+		//"fontname":"Arial",
+		//"fontsize":10,
+		//"fillcolor":"#0570B0",
+		
+	],
+"links":
+[
+{"source":"0",
+"target":"1"
+}
+//"label" : "1",
+//"penwidth":1.008,
+//"color":"dodgerblue4",
+//"fontname":"Arial",
+//"fontsize":10}],
+]
+}
+
