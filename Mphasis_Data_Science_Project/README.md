@@ -1,2 +1,2 @@
 # User Journey Analysis,Visualization and Predictions
-# Please refer Acad_Intern_report for complete details on the project
+# Please refer Mphasis_Internship for complete details on the project
